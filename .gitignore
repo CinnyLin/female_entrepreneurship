@@ -1,6 +1,5 @@
 # data
-/crunchbase-data-master
-investments_VC.csv
+/data
 
 # notebook
-/.ipynb_checkpoints
+/notebooks/.ipynb_checkpoints
