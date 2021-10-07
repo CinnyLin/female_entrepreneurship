@@ -2,4 +2,6 @@
 /data
 
 # notebook
-/notebooks/.ipynb_checkpoints
+/notebooks_cb/.ipynb_checkpoints
+/notebooks_GEM/.ipynb_checkpoints
+/notebooks_other/.ipynb_checkpoints
